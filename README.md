@@ -1,2 +1,2 @@
 # WorldChat
-WorldChat plugin for Nukkits
+WorldChat plugin for Nukkit
