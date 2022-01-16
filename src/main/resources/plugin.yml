@@ -1,0 +1,5 @@
+name: WorldChat
+api: [1.0.0]
+author: HardKing
+main: HardKing.WorldChat.Main
+version: 1.0
